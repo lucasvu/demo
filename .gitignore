@@ -1,1 +1,9 @@
-main.exe
+Listings/
+Objects/
+RTE/
+
+*.lucasvu
+*.lv080037
+*.uvoptx
+
+JLinkSettings.ini
