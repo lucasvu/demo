@@ -22,3 +22,5 @@ typedef struct
 } TrimParams;
 
 #endif	// __TEST_CONFIG_H
+
+// bbb_comment
