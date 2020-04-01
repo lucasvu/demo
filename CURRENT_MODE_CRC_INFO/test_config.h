@@ -24,3 +24,4 @@ typedef struct
 #endif	// __TEST_CONFIG_H
 
 // bbb_comment
+// bbb_comment
